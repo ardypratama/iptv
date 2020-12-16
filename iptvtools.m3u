@@ -57,3 +57,4 @@ http://103.30.1.14:8080/hls/live.m3u8
 #EXTINF:-1,NET TV
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1608087618/ei/4iPZX9y5GuWOz7sPq5G3uAo/ip/180.244.81.237/id/FWa92qKiY5M.1/source/yt_live_broadcast/requiressl/yes/tx/23938785/txs/23938784%2C23938785%2C23938786/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgDxo095zIToie52IVoqkwt1LdiJ_opbSZ11Ru-GX9GPkCICNmUYt1p9EWiDQd7lipbpIQoydnMYLb2SLrfW7qHxvs/file/index.m3u8
 
+#END
